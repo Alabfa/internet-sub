@@ -70,4 +70,4 @@ This method will allow you to use the app for 7 days only
 
 ## License
 
-The Internet Sub App is licensed under the [MIT License](LICENSE). Please review the license terms before using this application.
+The Internet Sub App is licensed under the [MIT License](LICENSE).
