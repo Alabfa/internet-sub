@@ -6,10 +6,12 @@ This repository contains the installation files for the **Internet Sub** mobile 
 
 ## Table of Contents
 
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Installation](#Installation)
-* [License](#license)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+  - [Android](#android)
+  - [IOS](#ios)
+- [License](#license)
 
 ## Features
 
